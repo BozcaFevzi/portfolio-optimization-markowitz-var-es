@@ -27,6 +27,14 @@ The study is divided into theoretical derivation and empirical application, cove
 - **Constraints:** Implementation of "Pure" (unconstrained) vs. "Ameliorated" (capped weights 5%-40%) strategies to limit concentration risk.
 - **Performance Metrics:** Analysis via Sharpe Ratio, Sortino Ratio, and Maximum Drawdown.
 
+## 👥 Contributors
+
+This project was a collaborative effort. Feel free to reach out to the authors:
+
+* **Fevzi BOZCA** - [Email](mailto:bozca.fevzi@hotmail.com)
+* **Maxime KALARDASHTI** - [Email](mailto:kalardashti.maxime@gmail.com)
+* **Amin ICHOU** - [Email](mailto:aminichou@hotmail.fr)
+
 ## 📂 Repository Structure
 
 ```text
